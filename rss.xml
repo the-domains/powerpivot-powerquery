@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[powerpivot-powerquery]]></title>
         <description><![CDATA[powerpivot-powerquery]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/powerpivot-powerquery/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jun 2016 18:28:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 28 Jun 2016 18:31:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/powerpivot-powerquery/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0e7fb3a-96ac-4a51-8029-b88de3b84d57.jpg">]]></description>
+            <title><![CDATA[Graphische Zuordnung der Tabellen]]></title>
+            <description><![CDATA[<article><h1>Graphische Zuordnung der Tabellen</h1><p>Verbindung von Tabellen mittels graphischer Ansicht.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe1bfe636d6b2b2a2792a88392e6ffa22c077b84.jpg"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0e7fb3a-96ac-4a51-8029-b88de3b84d57.jpg</link>
             <guid isPermaLink="false">aa397d5d-08f4-4e46-aa46-26235ab59e02</guid>
-            <pubDate>Tue, 28 Jun 2016 18:28:33 GMT</pubDate>
+            <pubDate>Tue, 28 Jun 2016 18:31:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
