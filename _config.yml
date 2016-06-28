@@ -6,9 +6,9 @@ color:
   saturation: 0.7986889109015465
   rhythmicContrast: 0.19330590614117682
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
 name: powerpivot-powerquery
