@@ -1,14 +1,26 @@
-layout_spectrum: 0.5489450786262751
-typography_spectrum: 0.551812807796523
-color:
-  brandStrength: 0.16972351795993745
-  lightness: 0.2667210081126541
-  saturation: 0.7986889109015465
-  rhythmicContrast: 0.19330590614117682
-  brandColors:
-    - '#304269'
-    - '#91BED4'
-    - '#D9E8F5'
-    - '#FFFFFF'
-    - '#F26101'
+layout_spectrum: 0.8052276
 name: powerpivot-powerquery
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+color:
+  brandStrength: 0.7681282
+  lightness: 0.4629005
+  saturation: 0.8659359
+  rhythmicContrast: 0.7580101
+  brandColors:
+    - '#C5BFBB'
+    - '#09070A'
+    - '#69645B'
+    - '#0E6CD9'
+    - '#244C2F'
+typography_spectrum: 0.8001686
